@@ -1,0 +1,258 @@
+
+body{
+    background-color: #F7F7F7;
+    font-family: sans-serif;
+    margin: 0px 0px;
+}
+
+h1{
+    background-color: #FFFFFF;
+    padding: 0px 25px;
+    margin: 0;
+    height: 50px;
+}
+#first_icon{
+ margin-left: 1000px;
+ margin-top: 30px;
+ font-size: 20px;
+ text-decoration: none;
+
+}
+#under_div{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+
+}
+.sub1{
+    background-color: white;
+    border-radius: 20px;
+    width: 28%;
+    height: 300px;
+    padding: 15px;
+    margin: 10px;
+    font-size: 25px;  
+}
+.sub1:hover{
+    box-shadow: 5px 5px  #666666;
+}
+.check11 input{
+    opacity: 0.3;
+    width: 20px;
+    height: 20px;
+    margin: 10px 2px;
+
+}
+#color1{
+    text-decoration: line-through;
+    margin-left: 10px;
+    opacity: 0.3; 
+}
+.check12 input{
+    opacity: 0.3;
+    width: 20px;
+    height: 20px;
+    margin: 10px 2px;
+}
+.sub2{
+    background-color: white;
+    border-radius: 20px;
+    width: 28%;
+    height: 300px;
+    padding: 15px;
+    margin: 10px;
+    font-size: 25px;  
+}
+.sub2:hover{
+    box-shadow: 5px 5px  #666666;
+}
+.check21 input{
+    opacity: 0.3;
+    width: 20px;
+    height: 20px;
+    margin: 10px 2px;
+
+}
+.check22 input{
+    opacity: 0.3;
+    width: 20px;
+    height: 20px;
+    margin: 10px 2px;
+}
+.sub3{
+    background-color: white;
+    border-radius: 20px;
+    width: 28%;
+    height: 300px;
+    padding: 15px;
+    margin: 10px;
+    font-size: 25px;  
+}
+.sub3:hover{
+    box-shadow: 5px 5px  #666666;
+}
+.check31 input{
+    opacity: 0.3;
+    width: 20px;
+    height: 20px;
+    margin: 10px 2px;
+
+}
+.check32 input{
+    opacity: 0.3;
+    width: 20px;
+    height: 20px;
+    margin: 10px 2px;
+}
+.sub4{
+    background-color: white;
+    border-radius: 20px;
+    width: 28%;
+    height: 300px;
+    padding: 15px;
+    margin: 10px;
+    font-size: 25px;  
+}
+.sub4:hover{
+    box-shadow: 5px 5px  #666666;
+}
+.check41 input{
+    opacity: 0.3;
+    width: 20px;
+    height: 20px;
+    margin: 10px 2px;
+
+}
+.check42 input{
+    opacity: 0.3;
+    width: 20px;
+    height: 20px;
+    margin: 10px 2px;
+}
+.sub5{
+    background-color: white;
+    border-radius: 20px;
+    width: 28%;
+    height: 300px;
+    padding: 15px;
+    margin: 10px;
+    font-size: 25px;  
+}
+.sub5:hover{
+    box-shadow: 5px 5px  #666666;
+}
+.check51 input{
+    opacity: 0.3;
+    width: 20px;
+    height: 20px;
+    margin: 10px 2px;
+
+}
+.check52 input{
+    opacity: 0.3;
+    width: 20px;
+    height: 20px;
+    margin: 10px 2px;
+}
+#blur{
+    filter: brightness(0.25);
+    background-color: #666666; 
+}
+
+#pop1_div{
+    width: 30%;
+    height: 250px;
+    border-radius: 5px;
+    position: absolute;
+    top: 150px;
+    right: 575px;
+    background-color: white;
+    text-decoration: none;
+}
+#new_taskp{
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+    margin: 20px ;
+    float: left;
+}
+#xr_mark{
+    margin-left: 400px; 
+    float: right; 
+}
+#inp1{
+    width: 92%;
+    height: 40px;
+    border-radius: 10px;
+    padding-left: 4px;
+    margin-left: 17px;
+}
+#btn1{
+    width: 150px;
+    height: 40px;
+    position: absolute;
+    top: 140px;
+    right: 10px;
+    background-color: rgb(48, 121, 230);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    text-decoration: none;
+    padding: 25px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.pop3_cl{
+    height: 300px;
+    }
+    #sec_nav{
+        position: absolute;
+        color: #949494;
+        text-decoration: none;
+
+        font-size: 24px;
+        padding-left: 36%;
+        top: 100px;
+    }
+    #popnav3{
+        font-size: 24px;
+        text-decoration: none;
+        padding-left: 52%;
+        position: absolute;
+        top: 93px;
+        
+    }
+    .log1{
+            background-color: #FFFFFF;
+            border-radius: 20px;
+            width: 28%;
+            height: 300px;
+            padding: 15px;
+            font-size: 25px;
+            margin-left: 500px;
+            margin-top: 100px;  
+        }  
+ .anchor10{
+    text-align: center;
+
+ }
+ #blur1{
+    filter: brightness(0.5);
+    background-color: #626262;
+    height: 1000px;
+ }
+ #popnav4{
+    font-size: 18px;
+    text-decoration: none;
+    padding-left: 35%;
+    position: relative;
+    top: -13px;
+
+}
+    
+
+
+
+
+
+
